@@ -12,4 +12,4 @@ Nuget est le gestionnaire de paquets de la plate forme de développement Microso
 - Appuyer sur la croix verte, puis changez la source par l'url suivante :
 https://api.nuget.org/v3/index.json
 
-![parametres de gestionaires de packets](Documentation-visual_studio/Screenshot_2.PNG)
+![parametres de gestionaires de packets](Screenshot_2.PNG)
